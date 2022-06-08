@@ -1,0 +1,8 @@
+// Import Bootstrap config first
+@import './bootstrap/bootstrap.min';
+
+// WP and Gutenberg defaults
+@import './defaults';
+
+// here go's the rest
+@import './hvg-blog-styles';
